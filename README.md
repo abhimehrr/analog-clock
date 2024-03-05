@@ -1,5 +1,7 @@
 # Analog Clock
 
+[See how it looks 😍](https://abhimehrr.github.io/analog-clock/dist)
+
 ## License:
 This project is licensed under the MIT License.
 
